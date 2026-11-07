@@ -1,0 +1,4 @@
+Rapport des employés
+Nom: sara, Âge: 23, Poste: Engineer
+Nom: amine, Âge: 24, Poste: prof
+Fin du rapport.
